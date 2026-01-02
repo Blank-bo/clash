@@ -23,4 +23,4 @@ DOMAIN,litvpc-hichannel.cdn.hinet.net
 DOMAIN-KEYWORD,hamivideo
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
-IP-CIDR,58.99.33.1/35
+IP-CIDR,58.99.33.1/24
